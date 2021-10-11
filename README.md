@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darthtechnosage
+- 👋 Hi, I’m Brandon
 - 👀 I’m interested in app and game development
 - 🌱 I’m currently learning swift for iOS developemnt
 - 📚 This will be the home of in progress and completed tutorials for the time being
